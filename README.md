@@ -13,3 +13,8 @@ project url http://localhost:1212
 
 ![Some Additional User Info Fields](https://raw.githubusercontent.com/kumarn94/user-details-laravel/main/screenshots/Screenshot%202024-04-02%20224901.png)
 
+first create new user
+login and navigate the 'Profile Page' on (hover username the top right side corner) 
+
+
+ 
